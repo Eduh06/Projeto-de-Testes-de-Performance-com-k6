@@ -33,4 +33,4 @@ k6 run --out json=results/smoke.json scripts/smoke-test.js
 
 ---
 
-Feito com 💻 por [Eduardo dos Santos]
+Feito com 💻 por Eduardo dos Santos
